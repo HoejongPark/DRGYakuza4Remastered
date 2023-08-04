@@ -431,9 +431,9 @@ function ENT:HandleAnimEvent(a,b,c,d,e)
 		}, 
 		function(self, hit)
 			if #hit > 0 then 
-				self:EmitSound("DrgYakuza4Remastered/common/punch"..math.random(4)..".wav")
+				self:EmitSound("DrgYakuza4Remastered/common/punch"..math.random(4)..".wav", 150)
 			else
-				self:EmitSound("DrgYakuza4Remastered/common/swing_kick"..math.random(3)..".wav")
+				self:EmitSound("DrgYakuza4Remastered/common/swing_kick"..math.random(3)..".wav", 150)
 			end
 		end)
 	end
