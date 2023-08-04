@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/common/eye"
+	"$bumpmap" "models/drgyakuza4remastered/common/eye_n"
+	"$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask "0"
+	$envmapsphere 1
+
+    "$envmaptint" "[ .005 .005 .005 ]"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.01 0.01 0.01]"
+			 
+}

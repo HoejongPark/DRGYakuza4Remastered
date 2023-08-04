@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/akiyama/hair"
+	"$bumpmap" "models/drgyakuza4remastered/akiyama/hair_n"
+	"$translucent" 1
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.05 0.05 0.05]"
+	"$color2" "[0.25 0.25 0.25]"
+	"$alphatestreference"	"0.5"
+	  "$halflambert" "0"
+     	"$nocull" 0
+	"$alphatest" 1
+	"$allowAlphaToCoverage" 1			 
+}

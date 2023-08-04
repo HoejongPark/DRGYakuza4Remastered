@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/akiyama/face"
+	"$bumpmap" "models/drgyakuza4remastered/akiyama/face_n"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.06 0.5 1]"
+ 	"$color2" "[0.85 0.8 0.7]"
+}

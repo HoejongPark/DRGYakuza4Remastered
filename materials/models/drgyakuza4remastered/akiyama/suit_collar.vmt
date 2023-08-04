@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/akiyama/suit"
+	"$bumpmap" "models/drgyakuza4remastered/akiyama/suit_n"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 
+	 "$detail" "models/drgyakuza4remastered/akiyama/pattern1"
+
+	"$detailscale"	"70"
+	$detailblendfactor 1.5
+	$color2 "[0.625 0.625 0.625]"
+}

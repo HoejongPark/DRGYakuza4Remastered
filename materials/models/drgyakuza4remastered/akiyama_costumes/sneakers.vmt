@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/akiyama_costumes/sneakers"
+	"$bumpmap" "models/drgyakuza4remastered/akiyama_costumes/sneakers_n"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.05 0.05 0.05]"
+
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/common/mouth"
+	"$bumpmap" "models/drgyakuza4remastered/common/mouth_n"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.06 0.5 1]"
+				 
+}
