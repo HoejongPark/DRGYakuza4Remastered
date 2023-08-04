@@ -397,9 +397,24 @@ function ENT:HandleAnimEvent(a,b,c,d,e)
 	end
 	if e == "cmb3_voice" then
 		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_small2.wav")
+	end			
+	if e == "cmb4_voice" then
+		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_small3.wav")
+	end
+	if e == "flurry_voice" then
+		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_med"..math.random(3)..".wav")
+	end
+	if e == "fin1_voice" then
+		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_massive2.wav")
 	end
 	if e == "fin2_voice" then
 		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_massive2.wav")
+	end
+	if e == "fin3_voice" then
+		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_massive2.wav")
+	end
+	if e == "fin4_voice" then
+		self:EmitSound("DrgYakuza4Remastered/player_akiyama/atk_big1.wav")
 	end
 	if e == "fall_sound" then
 		self:EmitSound("DrgYakuza4Remastered/common/down"..math.random(4)..".wav")
@@ -416,9 +431,9 @@ function ENT:HandleAnimEvent(a,b,c,d,e)
 		}, 
 		function(self, hit)
 			if #hit > 0 then 
-				self:EmitSound("yakuza0/weapons/fists/hit"..math.random(4)..".wav")
+				self:EmitSound("DrgYakuza4Remastered/common/punch"..math.random(4)..".wav")
 			else
-				self:EmitSound("yakuzakiwami/weapons/fists/swing"..math.random(4)..".wav")
+				self:EmitSound("DrgYakuza4Remastered/common/swing_kick"..math.random(3)..".wav")
 			end
 		end)
 	end
