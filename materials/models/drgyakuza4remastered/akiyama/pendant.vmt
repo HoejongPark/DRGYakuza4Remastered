@@ -2,10 +2,16 @@
 {
 	"$basetexture" "models/drgyakuza4remastered/akiyama/face"
 	"$bumpmap" "models/drgyakuza4remastered/akiyama/face_n"
+	"$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask "0"
+	$envmapsphere 1
+    $color2 "[1 1 1]"
+    "$envmaptint" "[ 1 1 1 ]"
 
                  "$phong" "1"
                  "$phongboost" "1"
                  "$phongexponent" 10
-                 "$phongfresnelranges" "[1 1 1]"
+                 "$phongfresnelranges" "[0.5 0.5 0.5 ]"
+                 $phongtint "[2 1 0]"
 				 
 }
