@@ -4,11 +4,11 @@
 	"$bumpmap" "models/drgyakuza4remastered/common/eye_n"
 	"$envmap" "env_cubemap"
 	$normalmapalphaenvmapmask "0"
-	$envmapsphere 1
+	$envmapsphere 0
 
     "$envmaptint" "[ .025 .025 .025 ]"
 
-                 "$phong" "1"
+                 "$phong" "0"
                  "$phongboost" "1"
                  "$phongexponent" 10
                  "$phongfresnelranges" "[0.06 0.06 0.06]"

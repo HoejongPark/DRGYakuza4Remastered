@@ -8,9 +8,6 @@
                  "$phongexponent" 10
                  "$phongfresnelranges" "[0.125 0.125 0.125]"
 	"$color2" "[0.35 0.35 0.35]"
-	"$alphatestreference"	"0.525"
 	  "$halflambert" "0"
-     	"$nocull" 0
-	"$alphatest" 1
-	"$allowAlphaToCoverage" 1			 
+     	"$nocull" 0			 
 }

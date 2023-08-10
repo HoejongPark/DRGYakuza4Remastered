@@ -1,8 +1,8 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/drgyakuza4remastered/common/body"
-	
-
+    $lightwarptexture "models/drgyakuza4remastered/common/skinwarp_oe"
+                $color2 "[.9 1 1.5]"
                  "$phong" "1"
                  "$phongboost" "1"
                  "$phongexponent" 10

@@ -1,22 +1,20 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/drgyakuza4remastered/common/blank"
+	$bumpmap "models/drgyakuza4remastered/common/dummy_normal"
+	"$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask "0"
+	$additive 1
+	$envmapsphere 1
+    "$translucent" 1
+    "$envmaptint" "[ 1 1 1 ]"
+    "$halflambert" 1
+	"$phongexponent" "1500"
+	"$phongalbedotint" 1
+	"$phong" "1" 
+	"$phongboost"	"1000"
+	"$phongfresnelranges"	"[10 0 0]"
 
-	"$alphatestreference"	"0.65"
-	$translucent			"0"
-	$phong				"1"
-	$phongboost			"0.05"
-	$phongexponent			"7.5"
-	$PhongAlbedoTint "1"
-	$phongfresnelranges		"[0.5 1 10]"
-	$rimlight 				"6"	
-	$rimlightexponent 			"15"
-	$rimlightboost			"0.0"
-
-   	"$halflambert" "0"
-     	"$nocull" 0
-	"$alphatest" 1
-	"$allowAlphaToCoverage" 0
 
 	
 

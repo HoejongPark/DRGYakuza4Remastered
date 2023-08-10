@@ -10,7 +10,5 @@
 	"$color2" "[0.25 0.25 0.25]"
 	"$alphatestreference"	"0.5"
 	  "$halflambert" "0"
-     	"$nocull" 0
-	"$alphatest" 1
-	"$allowAlphaToCoverage" 1			 
+     	"$nocull" 0		 
 }

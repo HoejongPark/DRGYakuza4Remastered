@@ -2,7 +2,6 @@
 {
 	"$basetexture" "models/drgyakuza4remastered/akiyama/watch"
 	"$bumpmap" "models/drgyakuza4remastered/akiyama/watch_n"
-	"$envmap" "env_cubemap"
 	$normalmapalphaenvmapmask "0"
 	$envmapsphere 1
 

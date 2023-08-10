@@ -2,7 +2,6 @@
 {
 	"$basetexture" "models/drgyakuza4remastered/akiyama/hair"
 	"$bumpmap" "models/drgyakuza4remastered/akiyama/hair_n"
-	"$translucent" 1
                  "$phong" "1"
                  "$phongboost" "1"
                  "$phongexponent" 10
@@ -11,6 +10,5 @@
 	"$alphatestreference"	"0.525"
 	  "$halflambert" "0"
      	"$nocull" 0
-	"$alphatest" 1
-	"$allowAlphaToCoverage" 1			 
+		$alphatest 1	 
 }
