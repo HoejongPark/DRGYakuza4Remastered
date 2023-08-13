@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/takumi/suit"
+	"$bumpmap" "models/drgyakuza4remastered/takumi/suit_n"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.125 0.125 0.125]"
+
+	 "$detail" "models/drgyakuza4remastered/takumi/pattern"
+
+	"$detailscale"	"45"
+	$detailblendfactor 1.5
+	$color2 "[0.625 0.625 0.625]"
+
+}

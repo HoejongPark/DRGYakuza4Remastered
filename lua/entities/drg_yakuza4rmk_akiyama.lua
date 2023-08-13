@@ -25,7 +25,8 @@ ENT.UseWalkframes = true
 ENT.IdleAnimation = "[AKIYAMA]_idle"
 ENT.WalkAnimation = "[Akiyama]_walk"
 ENT.RunAnimation = "[Akiyama]_battle_run"
-ENT.DefaultRelationship = D_NE
+ENT.DefaultRelationship = D_HT
+ENT.PlayersRelationship = D_LK
 ENT.ClimbLedges = false
 ENT.ClimbProps = false
 ENT.ClimbLadders = false
@@ -35,7 +36,7 @@ ENT.RagdollOnDeath = false
 ENT.PossessionEnabled = true
 ENT.PossessionCrosshair = false
 ENT.PossessionMovement = POSSESSION_MOVE_CUSTOM
-ENT.PossessionViews = {{offset = Vector(0, 0, 32),distance = 111,eyepos=false},{offset = Vector(7.5, 0, 0),distance = 0,eyepos = true}}
+ENT.PossessionViews = {{offset = Vector(0, 0, 32),distance = 111,eyepos=false},{offset = Vector(0, 0, 48),distance = 125,eyepos=false}}
 ENT.PossessionBinds = {
 
 	[IN_ATTACK] = {{coroutine = false,onkeydown = function(self)

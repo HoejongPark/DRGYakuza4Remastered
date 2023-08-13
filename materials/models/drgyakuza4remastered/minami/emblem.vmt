@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/minami/emblem"
+
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+                 "$phongfresnelranges" "[0.05 0.05 0.05]"
+	"$translucent" 1
+}
