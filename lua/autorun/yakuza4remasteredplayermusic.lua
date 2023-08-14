@@ -19,4 +19,4 @@ local function DRG_YAKUZA_4(Panel)
    	Panel:AddControl("Checkbox", {Label = "Tanimura", Command = "tanimura_music"})
     Panel:AddControl("Checkbox", {Label = "Kiryu", Command = "kiryu_music"})
 end
-hook.Add("PopulateToolMenu", "DRG_ADDTOMENU_YK01", function()spawnmenu.AddToolMenuOption("DrGBase", "Yakuza 4", "Music Settings", "Music Settings", "", "", DRG_YAKUZA_4, {})end)
+hook.Add("PopulateToolMenu", "DRG_ADDTOMENU_YK01", function()spawnmenu.AddToolMenuOption("DrGBase", "Yakuza 4", "Music Settings", "Player Music Settings", "", "", DRG_YAKUZA_4, {})end)

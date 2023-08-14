@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models/drgyakuza4remastered/minami/emblem"
+	"$basetexture" "entities/drg_roach_re4_merc_luis.png"
 
                  "$phong" "1"
                  "$phongboost" "1"
