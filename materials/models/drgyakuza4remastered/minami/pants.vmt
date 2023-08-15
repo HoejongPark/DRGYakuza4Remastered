@@ -4,8 +4,8 @@
 	"$bumpmap" "models/drgyakuza4remastered/minami/suit_n"
 
                  "$phong" "1"
-                 "$phongboost" "10"
+                 "$phongboost" "5"
                  "$phongexponent" 3
-                 "$phongfresnelranges" "[0.0015 0.0015 0.0015]"
+                 "$phongfresnelranges" "[0.05 .1 1]"
 
 }
