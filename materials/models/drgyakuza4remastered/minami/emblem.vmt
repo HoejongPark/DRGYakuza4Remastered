@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models/drgyakuza4remastered/minami/emblem"
+	"$basetexture" "models/drgyakuza4remastered/minami/kido"
 	"$translucent" 1
                  "$phong" "1"
                  "$phongboost" "1"
