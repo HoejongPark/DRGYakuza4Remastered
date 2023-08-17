@@ -1,10 +1,10 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "entities/drg_roach_re4_merc_luis.png"
-
+	"$basetexture" "models/drgyakuza4remastered/minami/kido"
+	"$translucent" 1
                  "$phong" "1"
                  "$phongboost" "1"
                  "$phongexponent" 10
                  "$phongfresnelranges" "[0.05 0.05 0.05]"
-	"$translucent" 1
+
 }
