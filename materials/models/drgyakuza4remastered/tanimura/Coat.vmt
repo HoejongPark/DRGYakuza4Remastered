@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drgyakuza4remastered/tanimura/suit"
+	"$bumpmap" "models/drgyakuza4remastered/tanimura/suit_n"
+	"$color2" "[2 2 2]"
+                 "$phong" "1"
+                 "$phongboost" "1"
+                 "$phongexponent" 10
+}
